@@ -10,15 +10,19 @@ This is an extension which shows daily and upcoming contests on various CP platf
 # Contest Remainder
 
 - This is the front page of the extension. You can go and check contest for today or upcoming contests.
+
 ![Main](https://user-images.githubusercontent.com/109656921/179968622-25bfee6f-b06c-4a1f-b776-643771057c1a.jpeg)
 
 - This page shows today's  contests for Codeforces, Codechef, Google Kickstart and Leetcode.
+
 ![Today1](https://user-images.githubusercontent.com/109656921/179969050-9f839b8f-68ca-4165-9fb0-0fd9590ca6c9.jpeg)
 
 - You can go back to main page by clicking on 'Go to main' button.
+
 ![Today2](https://user-images.githubusercontent.com/109656921/179969451-1c46c832-9575-421c-9ec2-dd8041c04b34.jpeg)
 
 - This page shows upcoming  contests for Codeforces, Codechef, Google Kickstart and Leetcode.
+
 ![Up](https://user-images.githubusercontent.com/109656921/179969855-ae296cd2-8dfb-47b9-b0a4-c0d2bff55fab.jpeg)
 
 
