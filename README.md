@@ -29,7 +29,7 @@ This is an extension which shows daily and upcoming contests on various CP platf
 
 ### Installation steps
 
-- Download all the files from the repository and store all the files in a single file.
+- Download all the files from the repository and store all the files in a single folder.
 - To set this extension on Chrome do the following steps:
 	- Click on the three dots
 	- Click on More tools option in the drop down list.
