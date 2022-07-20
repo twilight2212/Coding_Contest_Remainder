@@ -1,0 +1,15 @@
+{
+    "name": "Contest Reminder",
+    "version": "1.0.0",
+    "description": "Reminding daily contests",
+    "manifest_version": 3,
+    "icons":{
+        "16": "images/clock16.png",
+        "48": "images/clock48.png",
+        "128": "images/clock128.png"
+    },
+    "action":{
+        "default_popup": "main.html",
+        "default_title": "Contest reminder"
+    }
+}
