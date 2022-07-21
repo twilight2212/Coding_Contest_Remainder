@@ -1,4 +1,4 @@
-# Coding_Contest_Remainder
+# Coding_Contest_Reminder
 This is an extension which shows daily and upcoming contests on various CP platforms.
 
 ### Features
@@ -7,7 +7,7 @@ This is an extension which shows daily and upcoming contests on various CP platf
 - Quick and efficient.
 - A productive tool.
 
-# Contest Remainder
+# Contest Reminder
 
 - This is the front page of the extension. You can go and check contest for today or upcoming contests.
 
